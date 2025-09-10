@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS / Windows files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# AWS credentials (don’t ever push these!)
+*.csv
+*.json
