@@ -17,6 +17,8 @@ Architecture Workflow:
 Setup Instructions
 
 1. Clone the repository
+To clone this repository, run the following commands in your terminal. Replace `<your-username>` with your GitHub username:
+
 ```bash
 git clone https://github.com/<your-username>/aws-rekognition-image-labels.git
 cd aws-rekognition-image-labels
