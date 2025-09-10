@@ -17,7 +17,7 @@ Architecture Workflow:
 Setup Instructions
 
 1. Clone the repository
----bash
+```bash
 git clone https://github.com/<your-username>/aws-rekognition-image-labels.git
 cd aws-rekognition-image-labels
 
